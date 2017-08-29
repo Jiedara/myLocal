@@ -12,7 +12,7 @@
 6. Work with [a lot](#build-status-) of OS, development environment and PHP version. 
 7. Custom CSS & JS area
 8. It's easy to make your own myLocal template.
-9. New  feature [in comming!](./roadmap.md)
+9. New  feature [incoming!](./roadmap.md)
 10. Is made with  :green_heart: && :coffee: under a [public license](./license.md)
 
 ## Requirements
@@ -34,6 +34,9 @@ Clone or paste myLocal folder in your web development environment (xampp, wamp o
 	<?php
 		include "YourPath/myLocal/index.php";
 	?>
+
+   **Requirement**   
+   The `cache/` folder need to be writable by myLocal (`sudo chmod -R 766 cache` on Linux system) 
 
 ## For Developers
 
