@@ -36,7 +36,7 @@ Clone or paste myLocal folder in your web development environment (xampp, wamp o
 	?>
 
    **Requirement**   
-   The `cache/` folder need to be writable by myLocal (`sudo chmod -R 766 cache` on Linux system) 
+   The `cache/` folder need to be writable by myLocal (`sudo chmod -R 777 cache` on Linux system) 
 
 ## For Developers
 
